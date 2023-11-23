@@ -1,2 +1,2 @@
-# conexaobd-php
-Conectar ao banco de dados utilizando PHP.
+# exercicios-php
+Exercícios de PHP.
